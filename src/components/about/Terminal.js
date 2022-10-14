@@ -4,7 +4,6 @@ import classNames from "classnames";
 import {Box} from "@mui/material";
 
 const iconClass = "fa fa-circle";
-
 function Terminal(props) {
    const {text} = props;
 
